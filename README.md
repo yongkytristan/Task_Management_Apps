@@ -58,7 +58,7 @@ Task Management App adalah aplikasi berbasis web yang dirancang untuk membantu p
 - Tailwind CSS – styling frontend
 - PostgreSQL – database manajemen
 
-🚀 Instalasi & Penggunaan
+# 🚀 Instalasi & Penggunaan
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lokal Anda:
 
 **1. Clone Repositori**
