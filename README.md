@@ -129,3 +129,44 @@ Sistem menggunakan login statis untuk demo dengan:
 - Password: admin123
 
 # 📂 Struktur Folder
+```text
+Task-Management-App/
+├── backend/
+│   ├── instance/
+│   │   └── task.db                  
+│   ├── app.py              
+|   ├── check_db_connection.py  
+│   ├── config.py            
+│   ├── models.py            
+│   ├── routes.py
+│   ├── reset_db_schema.py          
+│   └── requirements.txt    
+│
+├── frontend/               
+│   ├── src/
+│   │   ├── assets/
+│   │   │   └── main.css         
+│   │   ├── components/      
+│   │   │   ├── Dashboard.vue    
+│   │   │   └── Login.vue 
+│   │   ├── App.vue          
+│   │   └── main.js          
+│   ├── index.html
+│   ├── jsconfig.json 
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   └── vite.config.js
+│
+└── README.md
+```
+
+# 📬 Kontak
+Jika ada pertanyaan atau ingin diskusi:
+
+📧 Email: tristanyongky@gmail.com
+
+💼 GitHub: https://github.com/yongkytristan
+
+▶️ Demo Video (YouTube): https://youtu.be/WfUaWBknqAQ
