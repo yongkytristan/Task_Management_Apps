@@ -168,5 +168,3 @@ Jika ada pertanyaan atau ingin diskusi:
 📧 Email: tristanyongky@gmail.com
 
 💼 GitHub: https://github.com/yongkytristan
-
-▶️ Demo Video (YouTube): https://youtu.be/WfUaWBknqAQ
